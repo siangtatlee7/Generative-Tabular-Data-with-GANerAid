@@ -1,0 +1,1 @@
+# Generative-Tabular-Data-with-GANerAid
